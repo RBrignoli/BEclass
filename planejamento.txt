@@ -23,3 +23,5 @@ Aula 1:
                 Configurar arquivo db.js (com os dados da DB)
                 Configurar arquivo app.js (para uma rota inicial get)
         Desenvolvimento da API (2 horas)
+            Criação do dotenv, separação das variaveis de ambiente.
+            

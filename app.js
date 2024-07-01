@@ -8,4 +8,4 @@ app.get('', (req, res) => {
     res.status(200)
 })
 
-app.listen(port, () => console.log(`ok funcionando na porta ${port}`))asdasdasdasdasd
+app.listen(port, () => console.log(`ok funcionando na porta ${port}`))
