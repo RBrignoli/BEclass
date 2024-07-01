@@ -1,0 +1,25 @@
+Aula 1:
+    Revisão de conceitos e desenvolvimento de uma API CRUD com NodeJS e ExpressJS
+    Duração: 4 horas
+    Objetivos:
+        Revisitar conceitos fundamentais de BE, APIs, REST.
+        Desenvolver uma API CRUD simples para uma tabela de usuários utilizando NodeJS e ExpressJS.
+        Integrar a API com um banco de dados SQL (PostgreSQL).
+
+    Conteúdo:
+        Introdução e Revisão de Conceitos (1 hora)
+            O que é Backend
+            O que é uma API / o que é uma API REST.
+            Métodos HTTP: GET, POST, PUT, DELETE.
+            Estrutura de um projeto NodeJS. (padrão MVC)
+            Introdução ao ExpressJS.
+            Revisão sobre bancos de dados relacionais e SQL.
+        Setup do Ambiente (30 minutos)
+            Instalação do NodeJS e npm.
+            Configuração inicial do projeto (npm install pg express)
+            Criação da organização de pastas (control, model, routes)
+            Criação dos arquivos principais (app.js, db.js)
+            Setup inicial e primeiro run para garantir o funcionamento
+                Configurar arquivo db.js (com os dados da DB)
+                Configurar arquivo app.js (para uma rota inicial get)
+        Desenvolvimento da API (2 horas)
